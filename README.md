@@ -1,5 +1,5 @@
 # bboggum
-We love K-food 뽀꿈봡
+AI 빅데이터 과제입니다.
 우리 팀의 과제입니다.
 
 ## 팀 소개
